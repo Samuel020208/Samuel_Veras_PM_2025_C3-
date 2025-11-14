@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1762479393 source:c:\users\sv988\desktop\programacion 2\tarea #6\inventario.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

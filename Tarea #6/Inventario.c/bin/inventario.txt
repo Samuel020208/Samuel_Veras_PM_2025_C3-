@@ -1,0 +1,6 @@
+Arroz 45.50 20
+Habichuelas 60.00 15
+Aceite 120.00 10
+Azucar 55.00 25
+Cafe 150.00 8
+
